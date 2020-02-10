@@ -28,6 +28,8 @@ Las actividades del taller de Cypress se encuentran en el siguiente repositorio:
 ## PlayWright
 
 
+PlayWright es una libreria para Node.js que permite automatizar pruebas en la parte del UI. Esta nacio a partir de los mismos creadores de Pupeeteer, que decidieron darle un mayor campo a las pruebas automatizas. Incluso mucha de la sintaxis utilizada para crear las pruebas es bastante parecida. 
+
 La principal diferencia entre PlayWright y Puppeteer, es que el segundo provee un API que permite controlar y hacer pruebas sobre Chrome o Chromium, a diferencia de PlayWright que permite realizar en diferentes navegadores como Chromium, WebKit y Firefox.  
 
 
