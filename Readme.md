@@ -25,6 +25,8 @@ npm install
 ## PlayWright
 
 
+La principal diferencia entre PlayWright y Puppeteer, es que el segundo provee un API que permite controlar y hacer pruebas sobre Chrome o Chromium, a diferencia de PlayWright que permite realizar en diferentes navegadores como Chromium, WebKit y Firefox.  
+
 
 | | Cypress | Protractor | Puppeteer | PlayWright |
 |--|--------|------------|-----------|------------|
