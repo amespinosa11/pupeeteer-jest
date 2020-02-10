@@ -22,6 +22,9 @@ npm install
 
 ![alt-text](https://github.com/amespinosa11/puppeteer-jest/blob/master/images/results.PNG)
 
+## Cypress
+Las actividades del taller de Cypress se encuentran en el siguiente repositorio: https://github.com/amespinosa11/taller_cypress.
+
 ## PlayWright
 
 
@@ -38,3 +41,6 @@ La principal diferencia entre PlayWright y Puppeteer, es que el segundo provee u
 | Grabación de pruebas | Sí | No | No | No |
 | Selenium backend | No | Sí | No | No |
 | Time-traveling | Sí | No | No | No |
+
+## Autor
+Ana María Espinosa
