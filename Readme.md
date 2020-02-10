@@ -12,9 +12,13 @@ npm install
 ```
 
 * Los escenarios de pruebas creados son los siguientes.
+
+
 | Nombre | Descripción | Resultado esperado | Estado |
 | ---------- | ------ | --------- | ------ |
 | Register Show Errors | Dar click en botón de registro sin ingresar ningún campo | Obtener errores que los campos son obligatorios | Exitoso |
 | Register Show Password min length | Ingresar una contraseña con solo un caracter | Obtener error con la cantidad minima de caracteres requeridos | Exitoso |
 | Register Success | Llenar todos los campos según lo indicado y obtener mensaje de exito | Obtener mensaje de exito al registrarse | Exitoso | 
+
+![alt-text](https://github.com/amespinosa11/puppeteer-jest/blob/master/images/results.PNG)
 
