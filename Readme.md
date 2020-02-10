@@ -22,3 +22,17 @@ npm install
 
 ![alt-text](https://github.com/amespinosa11/puppeteer-jest/blob/master/images/results.PNG)
 
+## PlayWright
+
+
+
+| | Cypress | Protractor | Puppeteer | PlayWright |
+|--|--------|------------|-----------|------------|
+|Interfaz gráfica | Sí | No | No | No |
+| Generador de configuración | Sí | Sí (Con angular CLI) | No |
+| Locators para AngularJS | No | Sí | No | No |
+| Integración con Test frameworks | No, interno (sintaxis jasmine) | Jasmine, Mocha, Cucumber | Principalmente todos | Sí |
+| Sistemas operativos | Mac, Linux | Mac, Linux, Windows | Mac, Linux, Windows | Mac, Linux, Windows |
+| Grabación de pruebas | Sí | No | No | No |
+| Selenium backend | No | Sí | No | No |
+| Time-traveling | Sí | No | No | No |
