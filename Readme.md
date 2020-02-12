@@ -32,6 +32,8 @@ PlayWright es una libreria para Node.js que permite automatizar pruebas en la pa
 
 La principal diferencia entre PlayWright y Puppeteer, es que el segundo provee un API que permite controlar y hacer pruebas sobre Chrome o Chromium, a diferencia de PlayWright que permite realizar en diferentes navegadores como Chromium, WebKit y Firefox.  
 
+PlayWright se presenta como una alterntaiva muy interesando para realizar pruebas en múltiples navegadores, permitiendo al tester escoger con cual navegador realizarlas. También sería muy interesante ver funcionalidades en donde se pueda escoger la versión del navegador para poder crear otros escenarios y llevar las pruebas a otro nivel.
+
 
 | | Cypress | Protractor | Puppeteer | PlayWright |
 |--|--------|------------|-----------|------------|
